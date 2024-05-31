@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/robotest/static/css/main.53502e2d.css",
+    "main.js": "/robotest/static/js/main.e8dc5622.js",
+    "static/js/453.7215195b.chunk.js": "/robotest/static/js/453.7215195b.chunk.js",
+    "static/media/SEGA.woff": "/robotest/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "static/media/logo.svg": "/robotest/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/robotest/index.html",
+    "main.53502e2d.css.map": "/robotest/static/css/main.53502e2d.css.map",
+    "main.e8dc5622.js.map": "/robotest/static/js/main.e8dc5622.js.map",
+    "453.7215195b.chunk.js.map": "/robotest/static/js/453.7215195b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53502e2d.css",
+    "static/js/main.e8dc5622.js"
+  ]
+}
